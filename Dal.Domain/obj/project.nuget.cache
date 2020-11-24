@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "htOScHX7IGWwqaLvdAUPvxhrx7xx1IHbC1ypFFudvvxVSm7mtVIL0xgRTI0q4xWKsDmL9wp/ll14HwTMN5GGKg==",
+  "success": true,
+  "projectFilePath": "/Users/erdinckara/Projects/DAL/Dal.Domain/Dal.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/erdinckara/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/erdinckara/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/erdinckara/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

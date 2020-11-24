@@ -1,0 +1,12 @@
+/Users/erdinckara/Projects/DAL/Dal.Domain/bin/Debug/net5.0/Dal.Domain.deps.json
+/Users/erdinckara/Projects/DAL/Dal.Domain/bin/Debug/net5.0/Dal.Domain.dll
+/Users/erdinckara/Projects/DAL/Dal.Domain/bin/Debug/net5.0/ref/Dal.Domain.dll
+/Users/erdinckara/Projects/DAL/Dal.Domain/bin/Debug/net5.0/Dal.Domain.pdb
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/Dal.Domain.csprojAssemblyReference.cache
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/Dal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/Dal.Domain.AssemblyInfoInputs.cache
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/Dal.Domain.AssemblyInfo.cs
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/Dal.Domain.csproj.CoreCompileInputs.cache
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/Dal.Domain.dll
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/ref/Dal.Domain.dll
+/Users/erdinckara/Projects/DAL/Dal.Domain/obj/Debug/net5.0/Dal.Domain.pdb
